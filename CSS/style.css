@@ -156,7 +156,7 @@
     }
 .search_form_fialed{
         border: 0;
-        background:transparent url(../img/Oval.svg) no-repeat left 7px;
+        background:transparent url(../img/oval.svg) no-repeat left 7px;
         background-size: 20px;
         border-bottom: 2px solid #BFC0C5;;
         margin-right: 60px;
@@ -242,11 +242,11 @@
     line-height: 24px;
     color: #006DFE;
     text-decoration: none;
-    background: url(/img/Shape.svg) no-repeat 95% center;
+    background: url(../img/shape.svg) no-repeat 95% center;
     transition: .2s all;
 }
 .benefits_card-more:hover, .benefits_card-more:focus{
-    background: url(/img/Shape.svg) no-repeat right center;
+    background: url(../img/shape.svg) no-repeat right center;
 }
 .benefits_card{
     grid-column: span 1;
@@ -279,7 +279,7 @@
     font-size: 16px;
     color: #006DFE;
     text-decoration: none;
-    background: url(/img/Shape.svg) no-repeat 100% center;
+    background: url(../img/shape.svg) no-repeat 100% center;
     padding-right: 59px;
 }
 .placec_caption{
@@ -395,7 +395,7 @@
     font-size: 16px;
     color: #006DFE;
     text-decoration: none;
-    background: url(/img/Shape.svg) no-repeat 100% center;
+    background: url(../img/shape.svg) no-repeat 100% center;
     padding-right: 59px;
    }
    .tour__more:hover, .tour__more:focus {
@@ -455,7 +455,7 @@
         line-height: 24px;
         color: #fff;
         padding-right: 20px;
-        background: url(/img/hard-icon.svg) no-repeat right;
+        background: url(../img/hard-icon.svg) no-repeat right;
         margin-right: 14px;
     }
     .top__card-comments{
@@ -464,7 +464,7 @@
         line-height: 24px;
         color: #fff;
         padding-right: 23px;
-        background: url(/img/comment-icon.svg) no-repeat right;
+        background: url(../img/comment-icon.svg) no-repeat right;
     }
 
     .top__card-desc{
